@@ -33,7 +33,6 @@ const styles = StyleSheet.create({
         zIndex: 999,
     },
     text: {
-        fontFamily: '.HelveticaNeueInterface-MediumP4',
         fontSize: 14,
         color: '#fff'
     }
